@@ -1,0 +1,7 @@
+{
+  "name": "THE MOMO HUB Butwal",
+  "description": "Authentic momos, bold Himalayan flavors, fast service, and unbeatable value in Horizon Chowk, Butwal. Order online or visit us.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
